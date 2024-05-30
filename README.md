@@ -1,6 +1,6 @@
 This package removes boilerplate from new React + TS ViteJs projects
 
-run `npx vite-no-bs`from a new Vite React TypeScript project
+run `npx vite-no-bs` from a new Vite React + TypeScript project
 
 It deletes files:
 
